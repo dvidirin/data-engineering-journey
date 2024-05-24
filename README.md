@@ -1,2 +1,2 @@
-# data-engineering-journey
-Repositório para a Jornada de Python com Dados
+# DATA ENGINNERING JOURNEY
+## Repositório para a Jornada de Python com Dados
